@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="The-Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Game</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="GameStage" />
+        <option name="description" value="" />
+        <option name="height" value="650" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="975" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="The_Game.jar">
+        <element id="module-output" name="The-Game" />
+      </element>
+    </root>
+  </artifact>
+</component>
